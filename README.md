@@ -1,4 +1,4 @@
-# Flask_SQLAlchemy
+# twitter_clone
 This is a simple Twitter clone built using Flask and SQLAlchemy. The application provides endpoints to manage users and tweets, allowing users to register, log in, post tweets, like tweets, and more.
 
 Requirements
@@ -8,7 +8,7 @@ Flask-SQLAlchemy
 
 Installation
 Clone the repository:
-git clone https://github.com/Smb7/Flask_SQLAlchemy
+git clone https://github.com/Smb7/twitter_clone
 cd flask-twitter-clone
 
 Install the required dependencies:
