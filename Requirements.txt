@@ -1,4 +1,4 @@
 Requirements
-Python 3.6+
-Flask
-Flask-SQLAlchemy
+Python==3.11.4
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
